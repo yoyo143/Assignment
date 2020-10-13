@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is feature1
-=======
-This is feature2
->>>>>>> f2
+This is first line commit
